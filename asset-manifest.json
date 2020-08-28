@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Infoviz-quiz/static/css/main.6a2a2929.chunk.css",
+    "main.js": "/Infoviz-quiz/static/js/main.bd87b9fd.chunk.js",
+    "main.js.map": "/Infoviz-quiz/static/js/main.bd87b9fd.chunk.js.map",
+    "runtime-main.js": "/Infoviz-quiz/static/js/runtime-main.3e628832.js",
+    "runtime-main.js.map": "/Infoviz-quiz/static/js/runtime-main.3e628832.js.map",
+    "static/js/2.1594debc.chunk.js": "/Infoviz-quiz/static/js/2.1594debc.chunk.js",
+    "static/js/2.1594debc.chunk.js.map": "/Infoviz-quiz/static/js/2.1594debc.chunk.js.map",
+    "index.html": "/Infoviz-quiz/index.html",
+    "precache-manifest.276609e9d8479d51946dbf012a495fc6.js": "/Infoviz-quiz/precache-manifest.276609e9d8479d51946dbf012a495fc6.js",
+    "service-worker.js": "/Infoviz-quiz/service-worker.js",
+    "static/css/main.6a2a2929.chunk.css.map": "/Infoviz-quiz/static/css/main.6a2a2929.chunk.css.map",
+    "static/js/2.1594debc.chunk.js.LICENSE.txt": "/Infoviz-quiz/static/js/2.1594debc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e628832.js",
+    "static/js/2.1594debc.chunk.js",
+    "static/css/main.6a2a2929.chunk.css",
+    "static/js/main.bd87b9fd.chunk.js"
+  ]
+}
